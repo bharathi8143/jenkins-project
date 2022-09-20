@@ -195,6 +195,7 @@
            <configuration>
                  <targetClasses>
                      <param>com.pik.contact*</param>
+                     </targetClasses>
                      <targetTests>
                         <param>com.pik.contact.unit*</param>
                    </targetTests>
