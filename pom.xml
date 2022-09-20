@@ -133,7 +133,7 @@
   <dependency>
          <groupId>net.masterthought</groupId>
          <artifactId>maven-cucumber-reporting</artifactId>
-         <version>${cucumer-reporting.version}</version>
+         <version>${cucumber-reporting.version}</version>
          <scope>test</scope>
      </dependency>
      <dependency>
