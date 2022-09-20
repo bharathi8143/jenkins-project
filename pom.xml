@@ -230,7 +230,7 @@
     <version>2.20</version>
     <executions>
     <ececution>
-       <goals>
+      <goals>
        <goal>integration-test</goal>
        <goal>verify</goal>
        </goals>
