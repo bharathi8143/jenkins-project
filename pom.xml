@@ -229,7 +229,7 @@
     <artifactId>maven-failsafe-plugin</artifactId>
     <version>2.20</version>
     <executions>
-    <ececution>
+    <execution>
       <goals>
        <goal>integration-test</goal>
        <goal>verify</goal>
